@@ -72,7 +72,7 @@ Log in authentication is handled with JWT-extended for Flask.
 
 ## Contact info
 
-You can contact me at marcelrm11@gmail.com.
+You can contact me at nicolettastruggia@hotmail.com
 
 ## License
 
